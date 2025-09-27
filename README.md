@@ -18,8 +18,8 @@ Setelah menyelesaikan bootcamp ini, peserta diharapkan mampu:
 
 | **Topik** | **Link** |
 | :--: | :--: |
-| Persiapan Awal | **[Prepare Environment](https://github.com/rakitcode/MiniBootcamp-DasProg/wiki/Prerequisite)** |
-| Materi & Silabus | **[Lihat Semua Modul di Wiki](https://github.com/rakitcode/MiniBootcamp-DasProg/wiki)** |
+| Persiapan Awal | **[Prepare Environment](https://github.com/rakitcode/Offline-Dasprog/wiki/Prerequisite)** |
+| Materi & Silabus | **[Lihat Semua Modul di Wiki](https://github.com/rakitcode/Offline-Dasprog/wiki)** |
 
 ---
 

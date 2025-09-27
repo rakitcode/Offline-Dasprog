@@ -1,6 +1,6 @@
-#  Mini Bootcamp: Dasar Pemrograman C 🚀
+#  Dasar Pemrograman C 🚀
 
-Selamat datang di Mini Bootcamp Dasar Pemrograman Bahasa C! Program ini dirancang untuk pemula yang ingin memahami konsep fundamental pemrograman menggunakan salah satu bahasa dasar, yaitu bahasa C.
+Selamat datang di Kelas Dasar Pemrograman Bahasa C! Program ini dirancang untuk pemula yang ingin memahami konsep fundamental pemrograman menggunakan salah satu bahasa dasar, yaitu bahasa C.
 
 ## 📖 Deskripsi Singkat
 

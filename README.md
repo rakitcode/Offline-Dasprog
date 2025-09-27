@@ -6,13 +6,6 @@ Selamat datang di Mini Bootcamp Dasar Pemrograman Bahasa C! Program ini dirancan
 
 Repositori ini berisi semua materi, contoh kode, dan latihan yang akan kita gunakan selama bootcamp. Pemateri akan memandu peserta melalui setiap modul yang telah disusun secara sistematis.
 
-## 🎯 Tujuan Pembelajaran
-Setelah menyelesaikan bootcamp ini, peserta diharapkan mampu:
-- Memahami konsep dasar algoritma dan pengenalan pemrograman.
-- Mengerti sintaks dasar dan struktur program C.
-- Menggunakan variabel, tipe data, dan operator.
-- Menerapkan logika percabangan dan perulangan.
-- Memahami dasar-dasar Array dan String.
 
 ### 📚 Navigasi Cepat
 
